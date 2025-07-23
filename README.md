@@ -3,7 +3,8 @@
 ## Environment Variables
 
 Create a `.env` file in the root folder and set the following variables:
-DATABASE_URL="postgresql://myuser:mikoSQLpassword_77@localhost:5432/recipes_db"
+
+DATABASE_URL=
 JWT_SECRET=super_secret_key_123
 PORT=3000
 
